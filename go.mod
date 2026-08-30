@@ -4,7 +4,7 @@ go 1.26.4
 
 require (
 	github.com/go-composites/error v0.0.0-20260830075421-e9e68493eded
-	github.com/go-composites/result v0.0.0-20260621061851-32adc2fb3ac2
+	github.com/go-composites/result v0.0.0-20260830075423-4c0f0e8854cc
 )
 
 require github.com/go-composites/null v0.0.0-20260621061849-c8074799d5aa // indirect
